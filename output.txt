@@ -1,0 +1,124 @@
+Hello
+Job id 1 terminated normally. No Error
+Instruction Counter = 3
+Instruction Register = H
+C= 0
+R= 
+Total Time Limit= 4
+Total Time Counter = 4
+Total Line Limit= 1
+Lime Limit Counter= 1
+
+
+Job id 2 terminated abnormally due to Time Limit Exceeded
+Instruction Counter = 1
+Instruction Register = GD30
+C= 0
+R= 
+Total Time Limit= 2
+Total Time Counter = 2
+Total Line Limit= 1
+Lime Limit Counter= 0
+
+
+Job id 3 terminated abnormally due to Operand Error
+Instruction Counter = 2
+Instruction Register = PD-0
+C= 0
+R= 
+Total Time Limit= 9
+Total Time Counter = 2
+Total Line Limit= 2
+Lime Limit Counter= 0
+
+
+Job id 4 terminated abnormally due to Operation Code Error
+Instruction Counter = 2
+Instruction Register = PE10
+C= 0
+R= 
+Total Time Limit= 9
+Total Time Counter = 2
+Total Line Limit= 1
+Lime Limit Counter= 0
+
+
+Job id 5 terminated abnormally due to Time Limit Exceeded
+Instruction Counter = 2
+Instruction Register = GD20
+C= 0
+R= 
+Total Time Limit= 3
+Total Time Counter = 4
+Total Line Limit= 2
+Lime Limit Counter= 0
+
+
+Job id 6 terminated abnormally due to Out of Data
+Instruction Counter = 1
+Instruction Register = GD10
+C= 0
+R= 
+Total Time Limit= 9
+Total Time Counter = 2
+Total Line Limit= 1
+Lime Limit Counter= 0
+
+
+Hello
+Job id 7 terminated abnormally due to Line Limit Exceeded
+Instruction Counter = 4
+Instruction Register = PD20
+C= 0
+R= 
+Total Time Limit= 9
+Total Time Counter = 6
+Total Line Limit= 1
+Lime Limit Counter= 1
+
+
+Job id 8 terminated abnormally due to Invalid Page Fault
+Instruction Counter = 2
+Instruction Register = PD20
+C= 0
+R= 
+Total Time Limit= 4
+Total Time Counter = 2
+Total Line Limit= 1
+Lime Limit Counter= 0
+
+
+Hello
+No Error
+IR H000 IC 02
+
+ 
+Line Limit Exceeded
+IR H000 IC 01
+
+ 
+Invalid Page Fault
+IR PD-0 IC 01
+
+ 
+Operation Code Error
+IR PE10 IC 01
+
+ 
+Hello
+No Error
+IR H000 IC 02
+
+ 
+Line Limit Exceeded
+IR H000 IC 01
+
+ 
+Invalid Page Fault
+IR PD-0 IC 01
+
+ 
+Operation Code Error
+IR PE10 IC 01
+
+ 
